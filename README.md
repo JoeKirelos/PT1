@@ -10,7 +10,7 @@ Question, does a flick mechanic in a rhythm game work on pc ? would it allow a r
 
 
 Survey.
-1- Do you have any rhythm game experiencce ? if yes, pc or mobile ? if mobile, are you aware of flick notes ? 
+1- Do you have any rhythm game experiencce ? if yes, was it on pc, arcade or mobile ? if mobile, are you aware of flick notes ? 
 
 
 2- did the flick notes feel intuitive in this prototype ? 
