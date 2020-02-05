@@ -14,3 +14,13 @@ Survey.
 
 
 2- did the flick notes feel intuitive in this prototype ? 
+
+
+
+
+
+most players who had rhythm game experience understood the mechanic much faster than those who didn't. 
+a lot of the players who didn't understand the mechanic asked for clarity, so maybe providing an example of the gameplay. 
+some players suggested using a controller for this particular mechanic, others were interested in seeing it go further. 
+some players wanted a better feedback for actually getting a successful hit in.
+the players who understood the mechanic's origin/idea, felt like it was a very nice step away from the typical rhythm game.
